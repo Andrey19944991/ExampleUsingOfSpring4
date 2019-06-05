@@ -1,3 +1,6 @@
 ExampleUSingOfSpring
 
-Внедрение зависимости не через конструктор (ExampleUsingOfSpring3), а через сеттер с использованием <property name="music" ref="musicBean"/>
+Р’РЅРµРґСЂРµРЅРёРµ Р·Р°РІРёСЃРёРјРѕСЃС‚Рё РЅРµ С‡РµСЂРµР· РєРѕРЅСЃС‚СЂСѓРєС‚РѕСЂ (ExampleUsingOfSpring3), Р° С‡РµСЂРµР· СЃРµС‚С‚РµСЂ СЃ РёСЃРїРѕР»СЊР·РѕРІР°РЅРёРµРј 
+```html
+<property name="music" ref="musicBean"/>
+```
